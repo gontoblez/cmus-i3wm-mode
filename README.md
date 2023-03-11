@@ -6,7 +6,7 @@ next, etc.) without having to switch to the cmus window.
 ## Installation
 1. Clone the repository:
 ```language
-git clone https://github.com/folynx/cmus-i3wm-mode.git
+git clone https://github.com/gontoblez/cmus-i3wm-mode.git
 ```
 2. Change keybindings as needed. The default keybinding to start the mode
 is `$mod+c` where `$mod` is the key you assigned when you first created your
